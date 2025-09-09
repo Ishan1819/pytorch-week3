@@ -2,7 +2,9 @@ Overview
 
 This repository contains PyTorch implementations of ResNet-18 (CIFAR-10) and a Transformer (toy translation) to understand core concepts from the original papers and experiment with key deep learning components.
 
+
 Key Learnings
+
 
 ResNet-18: Implemented residual blocks with identity & projection shortcuts; global average pooling reduced parameters; partial training reached 67% accuracy.
 
