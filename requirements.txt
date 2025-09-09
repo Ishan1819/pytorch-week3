@@ -1,7 +1,8 @@
-torch
+torch>=1.12
 torchvision
 numpy
-tqdm
 matplotlib
+nltk
+tqdm
 seaborn
 scikit-learn
